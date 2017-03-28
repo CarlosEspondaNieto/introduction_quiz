@@ -1,0 +1,56 @@
+{
+"quiz": [
+		{
+			"question": "Describe with your own words. What is a Data Platform?",
+			"answer": "Es una herramienta para la extracción, procesamiento y análisis de grandes volúmenes de datos"
+		},
+		{
+			"question": "In the 3 V's of big data. How would you describe Variety?",
+			"answer": "Se refiere a los tipos de formatos en que están los datos crudos, los cuales pueden ser estructurados, semiestructurados (json, csv, etc) y no estructurados (videos, audios, etc)"
+		},
+		{
+			"question": "What are the elements of tidy data?",
+			"answer": "Variables, observaciones y tipos de observaciones"
+		},
+		{
+			"question": "List the most common format files you know for sharing data",
+			"answer": "json, csv, excel"
+		},
+		{
+			"question": "What is web scrapping?",
+			"answer": "se refiere a que en el momento de extraer los datos, por ejemplo de una página web, no se extraiga la basura como las etiquetas html"
+		},
+		{
+			"question": "What is data integration?",
+			"answer": "es obtener datos de distintos datasets para tomar mejores decisiones de negocios"
+		},
+		{
+			"question": "What is data processing?",
+			"answer": "es cuando se preparan los datos en los datasets para ser analizados"
+		},
+		{
+			"question": "Mention some common data processing tasks",
+			"answer": "clean: limpiar datos (nulos y los que están alejados de la media), transform: cambios y mejoras , merge: juntar los datasets, y reshape"
+		},
+		{
+			"question": "Mention some common data processing tasks",
+			"answer": "your-answer-here"
+		},
+		{
+			"question": "What is Data as a Service?",
+			"answer": "Se refiere a que el producto es proporcionado bajo demanda, por ejemplo Netflix"
+		},
+		{
+			"question": "What is DataBase as a Service?",
+			"answer": "es una base de datos que escala en automático, tiene interfaz web"
+		},
+		{
+			"question": "What is data anlysis?",
+			"answer": "se puede describir como la obtención de datos, limpiarlos, describirlos, modelarlos y presentar los resultados"
+		},
+		{
+			"question": "Mention some typical use cases for data analysis",
+			"answer": "retención, adquisición y uso de clientes"
+		}
+	]	
+}
